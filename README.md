@@ -57,5 +57,4 @@ Here are results for my machine (MacBook Pro 15-inch, 2017).
 
 Raw data available at [my google sheet](https://docs.google.com/spreadsheets/d/11Kijkn0wK83d_zOvmTW9A77vbMC1fbG8LwLygLysqkU/edit?usp=sharing).
 
-Docker Desktop version 2.0.0.3 (31259) / stable / 8858db33c8
 ![](result.png)
